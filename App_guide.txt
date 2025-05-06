@@ -1,0 +1,46 @@
+Output1: App.py is to Design a Streamlit OCR application leveraging the multimodal capabilities of the Ollama model, running on my ubuntu ip 172.24.205.62 Ollama instance (port 11434).
+
+The application should allow users to click a button to scan the question and answer content from a live screenshot of Monitor 1 (where the game is running). The model should then extract and interpret the exact text from the captured image, and provide the correct answer for each question that match more than 80% from HPMA_data.csv.
+
+The app must offer a clean and intuitive UI, ensuring a seamless experience for users.
+
+The app can config the position of a question and answer choice position from the game (pre cal position from you see and set defual at first run)
+
+This app can be use if I copy it to other PC
+
+Ensure the implementation efficiently handles live capture from Monitor 1, processes images via Ollama's API, and displays structured text outputs in a user-friendly manner.
+
+Key UI Features:
+- Clean two-column layout with configuration in sidebar
+- Clear display of captured images and extracted text
+- Prominent display of correct answers with:
+  * Visual highlighting in green
+  * Larger text size for better visibility
+  * Both the choice letter (A/B/C/D) and answer text
+  * Clear visual distinction from other UI elements
+
+Output2: Train_ocr.py is to Training question text extracting logic to achieve the feature accuracy and processing speed of my App.py
+
+Output3: Label_tool.py is to let user manual click capture the image from game and save in training data image and save label.json to be input for training in Train_ocr.py, so also need help the user to not 100% input by manual you should prefill the label with the text you extract
+
+You can suggest anything else that you think I need to improve my app to be better and always back to see this guide before you (AI agent cursor) adjust anything to ensure that we still have the same goal
+
+
+Phase 1: Model Training and Testing
+1. Load and preprocess training data
+2. Fine-tune TrOCR model
+3. Test model performance
+4. Optimize model parameters
+
+Phase 2: Performance Optimization
+1. Implement batch processing
+2. Add caching mechanism
+3. Optimize image preprocessing
+4. Add parallel processing
+
+Phase 3: Accuracy Enhancement
+1. Add text normalization
+2. Implement confidence scoring
+3. Add fallback mechanisms
+4. Maintain prediction history
+
