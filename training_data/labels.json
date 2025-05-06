@@ -1,0 +1,451 @@
+[
+  {
+    "timestamp": "20240502_000000",
+    "image_paths": {
+      "full_screen": "training_data/images/full_screen_20240502_000000.png",
+      "regions": {
+        "question": {
+          "x": 100,
+          "y": 680,
+          "width": 680,
+          "height": 190
+        },
+        "answers": {
+          "A": {
+            "x": 390,
+            "y": 880,
+            "width": 550,
+            "height": 90
+          },
+          "B": {
+            "x": 1040,
+            "y": 880,
+            "width": 550,
+            "height": 90
+          },
+          "C": {
+            "x": 390,
+            "y": 975,
+            "width": 550,
+            "height": 90
+          },
+          "D": {
+            "x": 1040,
+            "y": 975,
+            "width": 550,
+            "height": 90
+          }
+        }
+      }
+    },
+    "question_text": "Sample Question",
+    "answer_texts": {
+      "A": "Sample Answer A",
+      "B": "Sample Answer B",
+      "C": "Sample Answer C",
+      "D": "Sample Answer D"
+    },
+    "correct_choice": "A",
+    "verified": true,
+    "is_new": false
+  },
+  {
+    "timestamp": "20250502_160707",
+    "image_paths": {
+      "question": "training_data/images/question_20250502_160707.png",
+      "answers": {
+        "A": "training_data/images/answer_A_20250502_160707.png",
+        "B": "training_data/images/answer_B_20250502_160707.png",
+        "C": "training_data/images/answer_C_20250502_160707.png",
+        "D": "training_data/images/answer_D_20250502_160707.png"
+      }
+    },
+    "question_text": "What did Lily Evans give to Professor Slughorn?",
+    "answer_texts": {
+      "A": "A flower turned into a fish",
+      "B": "A bottle of wine",
+      "C": "A picture of Harry",
+      "D": "A Memory for the Pensieve"
+    },
+    "correct_choice": "A",
+    "verified": false
+  },
+  {
+    "timestamp": "20250502_160804",
+    "image_paths": {
+      "question": "training_data/images/question_20250502_160804.png",
+      "answers": {
+        "A": "training_data/images/answer_A_20250502_160804.png",
+        "B": "training_data/images/answer_B_20250502_160804.png",
+        "C": "training_data/images/answer_C_20250502_160804.png",
+        "D": "training_data/images/answer_D_20250502_160804.png"
+      }
+    },
+    "question_text": "What kind of dragon guards the treasure vaults at\nGringotts?",
+    "answer_texts": {
+      "A": "Chinese Fireball",
+      "B": "Ukrainian Ironbelly",
+      "C": "Common Welsh Green",
+      "D": "Hungarian Horntail"
+    },
+    "correct_choice": "B",
+    "verified": false
+  },
+  {
+    "timestamp": "20250505_222836",
+    "image_paths": {
+      "question": "training_data/images/question_20250505_222836.png",
+      "answers": {
+        "A": "training_data/images/answer_A_20250505_222836.png",
+        "B": "training_data/images/answer_B_20250505_222836.png",
+        "C": "training_data/images/answer_C_20250505_222836.png",
+        "D": "training_data/images/answer_D_20250505_222836.png"
+      }
+    },
+    "question_text": "When Harry was learning the Patronus Charm, what happy memory did he initially use?",
+    "answer_texts": {
+      "A": "The First Time He Rode a Broom",
+      "B": "The night he met Hagrid",
+      "C": "His first ride on the Hogwarts Express",
+      "D": "The day he got into Hogwarts"
+    },
+    "correct_choice": "A",
+    "verified": false
+  },
+  {
+    "timestamp": "20250505_222908",
+    "image_paths": {
+      "question": "training_data/images/question_20250505_222908.png",
+      "answers": {
+        "A": "training_data/images/answer_A_20250505_222908.png",
+        "B": "training_data/images/answer_B_20250505_222908.png",
+        "C": "training_data/images/answer_C_20250505_222908.png",
+        "D": "training_data/images/answer_D_20250505_222908.png"
+      }
+    },
+    "question_text": "Dobby was set free after receiving Harry Potter's sock.",
+    "answer_texts": {
+      "A": "Ron Weasley's dress robes",
+      "B": "Lucius Malfoy's tie",
+      "C": "Harry Potter's sock",
+      "D": "Draco Malfoy's sock"
+    },
+    "correct_choice": "C",
+    "verified": false
+  },
+  {
+    "timestamp": "20250505_222934",
+    "image_paths": {
+      "question": "training_data/images/question_20250505_222934.png",
+      "answers": {
+        "A": "training_data/images/answer_A_20250505_222934.png",
+        "B": "training_data/images/answer_B_20250505_222934.png",
+        "C": "training_data/images/answer_C_20250505_222934.png",
+        "D": "training_data/images/answer_D_20250505_222934.png"
+      }
+    },
+    "question_text": "Who slipped Tom Riddle's Diary into Ginny's Cauldron?",
+    "answer_texts": {
+      "A": "Severus Snape",
+      "B": "Lucius Malfoy",
+      "C": "Draco Malfoy",
+      "D": "Rubeus Hagrid"
+    },
+    "correct_choice": "B",
+    "verified": false
+  },
+  {
+    "timestamp": "20250505_223002",
+    "image_paths": {
+      "question": "training_data/images/question_20250505_223002.png",
+      "answers": {
+        "A": "training_data/images/answer_A_20250505_223002.png",
+        "B": "training_data/images/answer_B_20250505_223002.png",
+        "C": "training_data/images/answer_C_20250505_223002.png",
+        "D": "training_data/images/answer_D_20250505_223002.png"
+      }
+    },
+    "question_text": "What does Fawkes bring to Harry Potter in the Chamber of Secrets?",
+    "answer_texts": {
+      "A": "Straw Hat",
+      "B": "The Sorting Hat",
+      "C": "Philosopher's Stone",
+      "D": "Sword of Gryffindor"
+    },
+    "correct_choice": "B",
+    "verified": false
+  },
+  {
+    "timestamp": "20250505_223028",
+    "image_paths": {
+      "question": "training_data/images/question_20250505_223028.png",
+      "answers": {
+        "A": "training_data/images/answer_A_20250505_223028.png",
+        "B": "training_data/images/answer_B_20250505_223028.png",
+        "C": "training_data/images/answer_C_20250505_223028.png",
+        "D": "training_data/images/answer_D_20250505_223028.png"
+      }
+    },
+    "question_text": "What subject did Professor Charity Burbage teach?",
+    "answer_texts": {
+      "A": "Muggle Studies",
+      "B": "Occlumency",
+      "C": "Astronomy",
+      "D": "Arithmancy"
+    },
+    "correct_choice": "A",
+    "verified": false
+  },
+  {
+    "timestamp": "20250505_223051",
+    "image_paths": {
+      "question": "training_data/images/question_20250505_223051.png",
+      "answers": {
+        "A": "training_data/images/answer_A_20250505_223051.png",
+        "B": "training_data/images/answer_B_20250505_223051.png",
+        "C": "training_data/images/answer_C_20250505_223051.png",
+        "D": "training_data/images/answer_D_20250505_223051.png"
+      }
+    },
+    "question_text": "What creature's eggshells are an essential Ingredient of Felix Felicis?",
+    "answer_texts": {
+      "A": "Acromantula",
+      "B": "Ashwinder",
+      "C": "Occamy",
+      "D": "Doxy"
+    },
+    "correct_choice": "C",
+    "verified": false
+  },
+  {
+    "timestamp": "20250505_223150",
+    "image_paths": {
+      "question": "training_data/images/question_20250505_223150.png",
+      "answers": {
+        "A": "training_data/images/answer_A_20250505_223150.png",
+        "B": "training_data/images/answer_B_20250505_223150.png",
+        "C": "training_data/images/answer_C_20250505_223150.png",
+        "D": "training_data/images/answer_D_20250505_223150.png"
+      }
+    },
+    "question_text": "What job does Luna Lovegood's father hold?",
+    "answer_texts": {
+      "A": "Professor",
+      "B": "Editor of \"The Daily Prophet\"",
+      "C": "Editor of \"The Quibbler\"",
+      "D": "Minister of Magic"
+    },
+    "correct_choice": "C",
+    "verified": false
+  },
+  {
+    "timestamp": "20250505_223211",
+    "image_paths": {
+      "question": "training_data/images/question_20250505_223211.png",
+      "answers": {
+        "A": "training_data/images/answer_A_20250505_223211.png",
+        "B": "training_data/images/answer_B_20250505_223211.png",
+        "C": "training_data/images/answer_C_20250505_223211.png",
+        "D": "training_data/images/answer_D_20250505_223211.png"
+      }
+    },
+    "question_text": "Who was responsible for Harry Potter not being able to enter Platform 9¾ in his second year?",
+    "answer_texts": {
+      "A": "Dobby",
+      "B": "Ron Weasley",
+      "C": "Hermione Granger",
+      "D": "Draco Malfoy"
+    },
+    "correct_choice": "A",
+    "verified": false
+  },
+  {
+    "timestamp": "20250505_223235",
+    "image_paths": {
+      "question": "training_data/images/question_20250505_223235.png",
+      "answers": {
+        "A": "training_data/images/answer_A_20250505_223235.png",
+        "B": "training_data/images/answer_B_20250505_223235.png",
+        "C": "training_data/images/answer_C_20250505_223235.png",
+        "D": "training_data/images/answer_D_20250505_223235.png"
+      }
+    },
+    "question_text": "In Quidditch, what position uses a bat to hit Bludgers towards the opposing team?",
+    "answer_texts": {
+      "A": "Seeker",
+      "B": "Beaters",
+      "C": "Keeper",
+      "D": "Chaser"
+    },
+    "correct_choice": "B",
+    "verified": false
+  },
+  {
+    "timestamp": "20250505_223301",
+    "image_paths": {
+      "question": "training_data/images/question_20250505_223301.png",
+      "answers": {
+        "A": "training_data/images/answer_A_20250505_223301.png",
+        "B": "training_data/images/answer_B_20250505_223301.png",
+        "C": "training_data/images/answer_C_20250505_223301.png",
+        "D": "training_data/images/answer_D_20250505_223301.png"
+      }
+    },
+    "question_text": "What is the name of the most powerful love potion in existence?",
+    "answer_texts": {
+      "A": "Kissing Concoction",
+      "B": "Amortentia",
+      "C": "Cupid Crystals",
+      "D": "Beguiling Bubbles"
+    },
+    "correct_choice": "B",
+    "verified": false
+  },
+  {
+    "timestamp": "20250505_223327",
+    "image_paths": {
+      "question": "training_data/images/question_20250505_223327.png",
+      "answers": {
+        "A": "training_data/images/answer_A_20250505_223327.png",
+        "B": "training_data/images/answer_B_20250505_223327.png",
+        "C": "training_data/images/answer_C_20250505_223327.png",
+        "D": "training_data/images/answer_D_20250505_223327.png"
+      }
+    },
+    "question_text": "What is the full name of the great professor, Albus Dumbledore?",
+    "answer_texts": {
+      "A": "Albus Percival Wulfric Brian Dumbledore",
+      "B": "Albus Frederick Periwinkle Dumbledore",
+      "C": "Albus Pervis Friday Allan Dumbledore",
+      "D": "Albus James Dumbledore"
+    },
+    "correct_choice": "A",
+    "verified": false
+  },
+  {
+    "timestamp": "20250505_223352",
+    "image_paths": {
+      "question": "training_data/images/question_20250505_223352.png",
+      "answers": {
+        "A": "training_data/images/answer_A_20250505_223352.png",
+        "B": "training_data/images/answer_B_20250505_223352.png",
+        "C": "training_data/images/answer_C_20250505_223352.png",
+        "D": "training_data/images/answer_D_20250505_223352.png"
+      }
+    },
+    "question_text": "Which of the following items is not Quidditch equipment?",
+    "answer_texts": {
+      "A": "Keeper Basket",
+      "B": "Bludger Bat",
+      "C": "Quaffle",
+      "D": "Bludger"
+    },
+    "correct_choice": "A",
+    "verified": false
+  },
+  {
+    "timestamp": "20250505_223420",
+    "image_paths": {
+      "question": "training_data/images/question_20250505_223420.png",
+      "answers": {
+        "A": "training_data/images/answer_A_20250505_223420.png",
+        "B": "training_data/images/answer_B_20250505_223420.png",
+        "C": "training_data/images/answer_C_20250505_223420.png",
+        "D": "training_data/images/answer_D_20250505_223420.png"
+      }
+    },
+    "question_text": "Where is the secret passageway from Hogwarts to Hogsmeade hidden?",
+    "answer_texts": {
+      "A": "In a Statue of Gunhilda de Gorsemoor",
+      "B": "Headmistress's Office",
+      "C": "Behind a Painting of Fruit",
+      "D": "In the 1st Floor Girls' Bathroom"
+    },
+    "correct_choice": "A",
+    "verified": false
+  },
+  {
+    "timestamp": "20250505_223444",
+    "image_paths": {
+      "question": "training_data/images/question_20250505_223444.png",
+      "answers": {
+        "A": "training_data/images/answer_A_20250505_223444.png",
+        "B": "training_data/images/answer_B_20250505_223444.png",
+        "C": "training_data/images/answer_C_20250505_223444.png",
+        "D": "training_data/images/answer_D_20250505_223444.png"
+      }
+    },
+    "question_text": "What kind of creature is Dobby?",
+    "answer_texts": {
+      "A": "Doxy",
+      "B": "House-Elf",
+      "C": "Blast-Ended Skrewt",
+      "D": "Gnome"
+    },
+    "correct_choice": "B",
+    "verified": false
+  },
+  {
+    "timestamp": "20250505_223536",
+    "image_paths": {
+      "question": "training_data/images/question_20250505_223536.png",
+      "answers": {
+        "A": "training_data/images/answer_A_20250505_223536.png",
+        "B": "training_data/images/answer_B_20250505_223536.png",
+        "C": "training_data/images/answer_C_20250505_223536.png",
+        "D": "training_data/images/answer_D_20250505_223536.png"
+      }
+    },
+    "question_text": "What instrument does Professor Quirrell use to subdue Fluffy?",
+    "answer_texts": {
+      "A": "Enchanted lute",
+      "B": "Charmed flute",
+      "C": "Charmed bagpipes",
+      "D": "Enchanted harp"
+    },
+    "correct_choice": "D",
+    "verified": false
+  },
+  {
+    "timestamp": "20250505_223602",
+    "image_paths": {
+      "question": "training_data/images/question_20250505_223602.png",
+      "answers": {
+        "A": "training_data/images/answer_A_20250505_223602.png",
+        "B": "training_data/images/answer_B_20250505_223602.png",
+        "C": "training_data/images/answer_C_20250505_223602.png",
+        "D": "training_data/images/answer_D_20250505_223602.png"
+      }
+    },
+    "question_text": "Where is the Slytherin Common Room?",
+    "answer_texts": {
+      "A": "The Dungeons",
+      "B": "The North Tower",
+      "C": "Astronomy Tower",
+      "D": "West Tower"
+    },
+    "correct_choice": "A",
+    "verified": false
+  },
+  {
+    "timestamp": "20250505_223628",
+    "image_paths": {
+      "question": "training_data/images/question_20250505_223628.png",
+      "answers": {
+        "A": "training_data/images/answer_A_20250505_223628.png",
+        "B": "training_data/images/answer_B_20250505_223628.png",
+        "C": "training_data/images/answer_C_20250505_223628.png",
+        "D": "training_data/images/answer_D_20250505_223628.png"
+      }
+    },
+    "question_text": "What was the true identity of Voldemort's pet Nagini?",
+    "answer_texts": {
+      "A": "Animagus",
+      "B": "Maledictus",
+      "C": "Boggart",
+      "D": "Fantastic Beast"
+    },
+    "correct_choice": "B",
+    "verified": false
+  }
+]
